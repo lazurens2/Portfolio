@@ -9,6 +9,7 @@ I leverage Big Data to drive business strategy, revamp customer experience and r
 In contrast, I have learned alot from the community, and I present some of what I have got in my public repository here on github. My intention is to keep this alive by feeding occasionally more examples and case studies from time time but no strict plans or frequencies.
 
 To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!
+---
 
 # [Machine Learning and Predictive Modeling with Python Training Course - Level 1](https://github.com/lazurens2/Portfolio/tree/master/Machine%20Learning%20and%20Predictive%20Modeling%20with%20Python%20Training%20Course%20-%20Level%201/Level%201)
 
