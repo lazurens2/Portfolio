@@ -6,7 +6,7 @@ Professionally, I am a Data Scientist, Business Intelligence and Bid Data Analyt
 
 I leverage Big Data to drive business strategy, revamp customer experience and revolutionize existing operational processes.
 
-In contrast, I have learned alot from the community, and I present some of what I have got in my public repohere. My intention is to keep this alive by feeding more examples and case studies from time time but no clear plans or frequencies.
+In contrast, I have learned alot from the community, and I present some of what I have got in my public repository here on github. My intention is to keep this alive by feeding occasionally more examples and case studies from time time but no strict plans or frequencies.
 
 To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!
 
