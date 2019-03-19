@@ -31,5 +31,20 @@ Subjects covered in the training course folder :
 - TimeSeries Forecasting
 - Supplementary materials
 
+## License
+In my opinion, there are three main options when choosing a License : 
+- A: I give you source code, you don't give back your changes (BSD)
+- B: I give you source code, you give back your changes (GNU GPL V2)
+- C: I give you source code, you can't use your changes on your devices only if you follow my rules. (GNU GPL V3)
+
+The **C** option is going to violate the freedom of anyone who wants to contribute, which is something I don't like very much abou this type of Licensing in the space of Opensource.
+
+My argument about **B** is the type of Licensing that I am comfortable with, and Linux is GPL V2, so I believe being an active contributor would be beneficial to everyone and can create a space of positive virality.
+
+The **A** option expects passive usage, which is not the best option if we chose to improve.
+
+GNU GPL V2 : Linus Torvalds said "I give you source code, you give me your changes back, We are even."
+It's as simple as that, I just don't want to violate the freedom of anyone who wants to use my contributions. I just expect from guys that
+
 # Acknowledgments
 Hat tip to anyone inspired and helped in this journey.
