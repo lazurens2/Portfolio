@@ -9,8 +9,32 @@ I leverage Big Data to drive business strategy, revamp customer experience and r
 In contrast, I have learned alot from the community, and I present some of what I have got in my public repository here on github. My intention is to keep this alive by feeding occasionally more examples and case studies from time time but no strict plans or frequencies.
 
 To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!
-***
 
+***
+# OnGoing Projects
+* Business Intelligence Using Qlik Sense For Data Discovery and Visualization : 
+This project, aims at publishing small projects of Qlik Sense applications that would demonstrate some Business Intelligence skills and key competencies, such as, Data Modeling, Set Analysis and Data Visualisation .. All that applied in very interesting industries Like Retail, Insurance, Finance, Humain Resource, Customer Relationsip Management, and much more...
+
+* Data Analytics For Predictive Modeling:
+Define my process to design predictive modeling experiments, based on data comprehension and analysis.
+
+Create Dashboards that assist the Data Scientist to identify Predictable variables, supported with clear and concise explanations. Design predictive experiments and create models Integrate the output of predictive models into the analytics layers (Dashboards of Analytical Apps) 
+
+* My Portfolio:
+My portfolio project is designed to demonstrate skills I have developed few years ago in Machine Learning and Deep Learning with real life use cases and scenarios that are valuable to several industries.
+I learn incrementally, leveraging work from prior projects on larger and more challenging future projects.
+
+The portfolio also will employers to confirm capability to deliver stable results, skillful predictions and useful analytics.
+
+My approach to design the portfolio :
+
+- Problem Type: There are a wide range of problem types that predictive analytics could present promising results and deliver useful insights, myself I prefer working single mindedly and single-handly on what could be of a maximum value to the end user in some popular indistries, such Banking, Insurance and Retail but not limited to these ...
+
+- Data : I will be either generating my data myself for sake of simplicity, or will be using public dataset available online.
+
+As this project is not a project created to go on production, I will pay much attention to respect best practices but the code here will certainly be of a small scope with data that can fit a Laptop Memory, and fitting that could be performed on a Simple CPU or GPU as well.
+
+***
 # [Dashboard Study Revealings (DSR) Methodology](https://github.com/lazurens2/Portfolio/wiki/Dashboard-Study-Revealings-(DSR)-Methodology)
 
 I designed a Method to shape and clarify the process of **Predctive Modeling**, I called it **DSR+P**
