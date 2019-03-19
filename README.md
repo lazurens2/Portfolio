@@ -9,8 +9,19 @@ I leverage Big Data to drive business strategy, revamp customer experience and r
 In contrast, I have learned alot from the community, and I present some of what I have got in my public repository here on github. My intention is to keep this alive by feeding occasionally more examples and case studies from time time but no strict plans or frequencies.
 
 To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!
----
+***
+***
+# [Dashboard Study Revealings (DSR) Methodology](https://github.com/lazurens2/Portfolio/wiki/Dashboard-Study-Revealings-(DSR)-Methodology)
 
+I designed a Method to shape and clarify the process of **Predctive Modeling**, I called it **DSR+P**
+
+* D : Dashboard
+* S : Study
+* R : Revealings
+* P : Present
+The Dashboard, Study, Revealings and Presentation (DSR+P) methodology is a foundation you can build all of your applications on while still having room to be creative and learn the different areas of the data. In a nutshell you lead with a Dashboard page, followed by Study pages, and finish with Revealings pages. The system works on a few levels but to understand some of why it works we have to discuss how people interact with computers and how we perceive information.
+[Read More..](https://github.com/lazurens2/Portfolio/wiki/Dashboard-Study-Revealings-(DSR)-Methodology)
+***
 # [Machine Learning and Predictive Modeling with Python Training Course - Level 1](https://github.com/lazurens2/Portfolio/tree/master/Machine%20Learning%20and%20Predictive%20Modeling%20with%20Python%20Training%20Course%20-%20Level%201/Level%201)
 
 I think Python is an amazing platform for machine learning. There are so much power ready to use.
@@ -31,16 +42,6 @@ Subjects covered in the training course folder :
 - TimeSeries Forecasting
 - Supplementary materials
 ***
-I designed a Method to shape and clarify the process of **Predctive Modeling**, I called it **DSR+P**
-
-* D : Dashboard
-* S : Study
-* R : Revealings
-* P : Present
-# [Dashboard Study Revealings (DSR) Methodology](https://github.com/lazurens2/Portfolio/wiki/Dashboard-Study-Revealings-(DSR)-Methodology)
-The Dashboard, Study, Revealings and Presentation (DSR+P) methodology is a foundation you can build all of your applications on while still having room to be creative and learn the different areas of the data. In a nutshell you lead with a Dashboard page, followed by Study pages, and finish with Revealings pages. The system works on a few levels but to understand some of why it works we have to discuss how people interact with computers and how we perceive information.
-[Read More..](https://github.com/lazurens2/Portfolio/wiki/Dashboard-Study-Revealings-(DSR)-Methodology)
-
 ## License
 In my opinion, there are three main options when choosing a License : 
 - A: I give you source code, you don't give back your changes (BSD)
