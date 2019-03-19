@@ -19,6 +19,7 @@ I designed a Method to shape and clarify the process of **Predctive Modeling**, 
 * S : Study
 * R : Revealings
 * P : Present
+
 ![DSR+P](https://user-images.githubusercontent.com/48279474/54601874-6edf4880-4a40-11e9-9d92-485ca34e82ec.png)
 
 The Dashboard, Study, Revealings and Presentation (DSR+P) methodology is a foundation you can build all of your applications on while still having room to be creative and learn the different areas of the data. In a nutshell you lead with a Dashboard page, followed by Study pages, and finish with Revealings pages. The system works on a few levels but to understand some of why it works we have to discuss how people interact with computers and how we perceive information.
