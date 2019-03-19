@@ -12,15 +12,16 @@ To sum up, I am absolutely and utterly passionate about Data Science and I am lo
 
 ***
 # OnGoing Projects
-* Business Intelligence Using Qlik Sense For Data Discovery and Visualization : 
+* **Business Intelligence Using Qlik Sense For Data Discovery and Visualization : **
 This project, aims at publishing small projects of Qlik Sense applications that would demonstrate some Business Intelligence skills and key competencies, such as, Data Modeling, Set Analysis and Data Visualisation .. All that applied in very interesting industries Like Retail, Insurance, Finance, Humain Resource, Customer Relationsip Management, and much more...
 
-* Data Analytics For Predictive Modeling:
+* **Data Analytics For Predictive Modeling:**
+
 Define my process to design predictive modeling experiments, based on data comprehension and analysis.
 
 Create Dashboards that assist the Data Scientist to identify Predictable variables, supported with clear and concise explanations. Design predictive experiments and create models Integrate the output of predictive models into the analytics layers (Dashboards of Analytical Apps) 
 
-* My Portfolio:
+* **My Portfolio:**
 My portfolio project is designed to demonstrate skills I have developed few years ago in Machine Learning and Deep Learning with real life use cases and scenarios that are valuable to several industries.
 I learn incrementally, leveraging work from prior projects on larger and more challenging future projects.
 
