@@ -37,7 +37,7 @@ In my opinion, there are three main options when choosing a License :
 - B: I give you source code, you give back your changes (GNU GPL V2)
 - C: I give you source code, you can't use your changes on your devices only if you follow my rules. (GNU GPL V3)
 
-The **C** option is going to violate the freedom of anyone who wants to contribute, which is something I don't like very much abou this type of Licensing in the space of Opensource.
+The **C** option is going to violate the freedom of anyone who wants to contribute, which is something I don't like very much about this type of Licensing in the space of Opensource.
 
 My argument about **B** is the type of Licensing that I am comfortable with, and Linux is GPL V2, so I believe being an active contributor would be beneficial to everyone and can create a space of positive virality.
 
