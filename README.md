@@ -30,6 +30,16 @@ Subjects covered in the training course folder :
 - Classification
 - TimeSeries Forecasting
 - Supplementary materials
+***
+I designed a Method to shape and clarify the process of **Predctive Modeling**, I called it **DSR+P**
+
+* D : Dashboard
+* S : Study
+* R : Revealings
+* P : Present
+# [Dashboard Study Revealings (DSR) Methodology](https://github.com/lazurens2/Portfolio/wiki/Dashboard-Study-Revealings-(DSR)-Methodology)
+The Dashboard, Study, Revealings and Presentation (DSR+P) methodology is a foundation you can build all of your applications on while still having room to be creative and learn the different areas of the data. In a nutshell you lead with a Dashboard page, followed by Study pages, and finish with Revealings pages. The system works on a few levels but to understand some of why it works we have to discuss how people interact with computers and how we perceive information.
+[Read More..](https://github.com/lazurens2/Portfolio/wiki/Dashboard-Study-Revealings-(DSR)-Methodology)
 
 ## License
 In my opinion, there are three main options when choosing a License : 
