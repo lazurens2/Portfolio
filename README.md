@@ -14,6 +14,7 @@ To sum up, I am absolutely and utterly passionate about Data Science and I am lo
 # OnGoing Projects
 * **Business Intelligence Using Qlik Sense For Data Discovery and Visualization : **
 This project, aims at publishing small projects of Qlik Sense applications that would demonstrate some Business Intelligence skills and key competencies, such as, Data Modeling, Set Analysis and Data Visualisation .. All that applied in very interesting industries Like Retail, Insurance, Finance, Humain Resource, Customer Relationsip Management, and much more...
+![screenshot 1](https://user-images.githubusercontent.com/48279474/55288914-62071100-53bf-11e9-9646-f5baaf622193.JPG)
 
 * **Data Analytics For Predictive Modeling:**
 
